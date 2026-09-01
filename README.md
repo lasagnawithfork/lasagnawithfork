@@ -17,7 +17,7 @@ I cannot fathom to explain to you how much in depth of an achievement you can ac
 */- skidding wow :D :octocat:
 
 - **Sources** mostly low-level c++ reverse-engineering and fun stuff
-- **Interests** Bypasses and helping people to paste
+- **Interests** helping people to paste
 - **TODO** Basic information and explanations are from other sources their authenticity is sourced; check ``README`` files.
 - If there's no ``README`` file then the source is either **destroyed** or **made by me**
 
