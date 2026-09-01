@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+(educational purposes only)
 I like to code and post random-sources. You can go ahead and use any of my code for any purpose and any source.
 There is no limit whatsoever. Make sure to give credits though, thanks. 
 
