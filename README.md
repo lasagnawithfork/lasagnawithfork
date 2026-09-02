@@ -25,7 +25,7 @@ Sources | Bypasses | Next-Source
 :--- | :---: | ---:
 ``WHAT IS THIS?`` sources shows what topics my github covers | ``WHAT IS THIS?`` Bypasses shows what bypass methods my github covers | ``WHAT IS THIS?`` Next-Source covers the next source-code that's gonna be posted
 Source | No Bypasses | C++
-My source Roblox external c++  | Can't tell if working no sources | Roblox Related
+Roblox + Samsung [Android]  | Can't tell if working no sources | Roblox Related
 
 UD :
 - [ ] Meow 
